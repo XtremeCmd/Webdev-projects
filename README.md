@@ -1,2 +1,2 @@
 # Webdev-projects
-this repository contains all the projects that i'll make in c language.
+this repository contains all the beginner/intermediate projects of web dev that i'll make.
